@@ -31,8 +31,8 @@ div{
     border: none;
 }
 button{
-    height: 100px;
-    width: 200px;
+    height: 50px;
+    width: 150px;
     background-color: darkred;
     border-radius: 20px;
 }
